@@ -1,0 +1,14 @@
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.exe.config
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.exe
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.pdb
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.csprojResolveAssemblyReference.cache
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.csproj.CoreCompileInputs.cache
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.exe
+H:\Introduction C#\FootballPenaltyGame\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.pdb
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.exe.config
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.exe
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\bin\Debug\FootballPenaltyGame.pdb
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.csprojAssemblyReference.cache
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.csproj.CoreCompileInputs.cache
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.exe
+C:\Users\gd53guilherme\Documents\FootballPenaltyGame\FootballPenaltyGame\obj\Debug\FootballPenaltyGame.pdb
